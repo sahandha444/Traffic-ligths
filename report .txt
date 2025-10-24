@@ -1,0 +1,66 @@
+========================================
+--- SIMULATION REPORT: FIXED-TIME CONTROL --- ⏱️
+Total Served Vehicles (Post-Warmup): 2636
+========================================
+- Total Throughput (Vehicles): 2636
+- Avg Delay (s): 16.34 s
+- Max Delay (s): 53
+- 95th Percentile Delay (s): 43.00 s
+
+Avg Queue Length (Vehicles):
+  - N_Through: 3.99 veh
+  - S_Through: 3.42 veh
+  - E_Through: 2.89 veh
+  - W_Through: 2.90 veh
+
+Avg Delay by PCU Group (s):
+  - 1.0 PCU: 16.30 s
+  - 1.5 PCU: 16.40 s
+  - 2.0 PCU: 16.69 s
+  - 3.0 PCU: 16.01 s
+
+
+
+  ========================================
+--- SIMULATION REPORT: FIXED-TIME CONTROL --- ⏱️
+Total Served Vehicles (Post-Warmup): 2665
+========================================
+- Total Throughput (Vehicles): 2665
+- Avg Delay (s): 12.14 s
+- Max Delay (s): 36
+- 95th Percentile Delay (s): 30.00 s
+
+Avg Queue Length (Vehicles):
+  - N_Through: 3.22 veh
+  - S_Through: 2.95 veh
+  - E_Through: 1.76 veh
+  - W_Through: 1.98 veh
+
+Avg Delay by PCU Group (s):
+  - 1.0 PCU: 12.07 s
+  - 1.5 PCU: 12.17 s
+  - 2.0 PCU: 12.61 s
+  - 3.0 PCU: 12.11 s
+
+
+
+  ========================================
+--- SIMULATION REPORT: FIXED-TIME CONTROL --- ⏱️
+Total Served Vehicles (Post-Warmup): 2659
+========================================
+- Total Throughput (Vehicles): 2659
+- Avg Delay (s): 10.45 s
+- Max Delay (s): 42
+- 95th Percentile Delay (s): 27.00 s
+
+Avg Queue Length (Vehicles):
+  - N_Through: 2.68 veh
+  - S_Through: 2.59 veh
+  - E_Through: 1.68 veh
+  - W_Through: 1.49 veh
+
+Avg Delay by PCU Group (s):
+  - 1.0 PCU: 10.64 s
+  - 1.5 PCU: 10.00 s
+  - 2.0 PCU: 9.91 s
+  - 3.0 PCU: 10.02 s
